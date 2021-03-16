@@ -4,7 +4,7 @@ int main(void) {
 	//Declare a variable of data type 'float' which will be named as answer
 	float answer;
 
-	// %c is for flating points
+	// %f is for floating points
 	scanf("%f", &answer);
 
 	//Display something together with variables
