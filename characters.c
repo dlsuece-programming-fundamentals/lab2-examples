@@ -7,7 +7,7 @@ int main(void) {
 	//Display something
 	printf("Enter your letter: ");
 	// %c is for characters
-	scanf("%c", &answer);
+	scanf(" %c", &answer);
 
 	//Display something together with variables 
 	// \n stands for New Line, aka. Enter Key
